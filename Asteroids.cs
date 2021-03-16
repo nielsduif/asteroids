@@ -4,7 +4,7 @@ using Microsoft.Xna.Framework.Input;
 
 namespace BaseProject
 {
-    public class Game1 : GameEnvironment
+    public class Asteroids : GameEnvironment
     {      
         protected override void LoadContent()
         {
