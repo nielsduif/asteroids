@@ -1,0 +1,3 @@
+﻿rocks naar gameobjectlist, zelfde principe als in de pipes van flappy bird
+
+deze vraag is heel vaag maar lijkt gwn op t antwoord van de 1e?
